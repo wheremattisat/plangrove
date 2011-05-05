@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  what: MyString
+  where: MyString
+  when: 2011-05-04
+
+two:
+  what: MyString
+  where: MyString
+  when: 2011-05-04
